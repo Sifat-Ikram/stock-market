@@ -1,4 +1,4 @@
-# ReactJS and Python CRUD Application
+# ReactJS and NodeJs CRUD Application
 
 ## Project Overview
 
@@ -21,5 +21,15 @@ This project is a demonstration of building a simple web application using React
 4. **Additional Visualization**:
    - Additional creative visualizations to enhance data insights.
 
-## Project Structure
 
+<h3>Backend github link: https://github.com/Sifat-Ikram/stock-market-server</h3>
+Although the backend of this project should be in Python but I have developed backend in NodeJs with expressJs and Nosql database MongoDB. I am willing to learn Python in this internship.
+
+<div style="margin-top: "20px">
+   Submitted By
+<ul>
+   <li>Md. Sifat Ikram</li>
+   <li>Email: sifatikram@gmail.com</li>
+   <li>Phone: +8801718837796</li>
+</ul>
+</div>
