@@ -68,7 +68,7 @@ const Sidebar = () => {
                   : "p-2 rounded-2xl group bg-primary text-white cursor-pointer transition-all"
               }
             >
-              <div className="tooltip tooltip-right" data-tip="Sign Up">
+              <div className="tooltip tooltip-right" data-tip="SignUp">
                 <BsFillPersonPlusFill className="h-7 w-7 group-hover:text-white " />
               </div>
             </NavLink>
@@ -80,7 +80,7 @@ const Sidebar = () => {
                   : "p-2 rounded-2xl group bg-primary text-white cursor-pointer transition-all"
               }
             >
-              <div className="tooltip tooltip-right" data-tip="Sign In">
+              <div className="tooltip tooltip-right" data-tip="SignIn">
                 <VscSignIn className="h-7 w-7 group-hover:text-white " />
               </div>
             </NavLink>
