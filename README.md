@@ -21,5 +21,11 @@ This project is a demonstration of building a simple web application using React
 4. **Additional Visualization**:
    - Additional creative visualizations to enhance data insights.
 
+
+<h1>Backend github link: https://github.com/Sifat-Ikram/stock-market-server</h1>
 Although the backend of this project should be in Python but I have developed backend in NodeJs with expressJs and Nosql database MongoDB. I am willing to learn Python in this internship.
-Backend github link: https://github.com/Sifat-Ikram/stock-market-server
+
+Submitted By
+Md. Sifat Ikram
+Email: sifatikram@gmail.com
+Phone: +8801718837796
