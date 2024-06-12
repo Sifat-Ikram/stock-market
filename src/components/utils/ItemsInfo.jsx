@@ -15,6 +15,10 @@ const ItemsInfo = () => {
     },
   });
 
+  if(!data){
+    return <span className="loading loading-spinner loading-lg"></span>;
+  }
+
   const handleDelete = (data) => {
     Swal.fire({
       title: "Are you really want to delete this item?",

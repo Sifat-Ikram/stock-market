@@ -56,6 +56,10 @@ const ChartComponent = () => {
     new Set(allData.map((item) => item.trade_code))
   );
 
+  if (!allData) {
+    return <span className="loading loading-spinner loading-lg"></span>;
+  }
+
   const chartData = {
     labels: filteredData.map((item) => item.date).sort(),
     datasets: [
